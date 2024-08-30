@@ -1,0 +1,15 @@
+# Diccionario de mapeo de ciudad a provincia correcta
+ciudad_a_provincia = {
+    'Quito': 'Pichincha',
+    'Guayaquil': 'Guayas',
+    'Cuenca': 'Azuay',
+    'Santo Domingo': 'Santo Domingo',
+    'Machala': 'El Oro',
+    'Durán': 'Guayas',
+    'Manta': 'Manabí',
+    'Portoviejo': 'Manabí',
+    'Loja': 'Loja',
+    'Ambato': 'Tungurahua',
+    'Esmeraldas': 'Esmeraldas',
+    'Riobamba': 'Chimborazo'
+}
